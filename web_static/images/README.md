@@ -1,1 +1,1 @@
-README images
+Images for AirBnB clone - Web static project
