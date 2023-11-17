@@ -1,6 +1,10 @@
 # AirBnB clone - Web static
 
-## Build the front end step-by-step.
+![hbnb](https://zupimages.net/up/23/46/bt8n.png)
+
+This project define HTML5 and CSS3
+
+## 🛠 Built With <a name="built-with">
 
 “Design” / “Sketch” / “Prototype” each element:
 
@@ -10,9 +14,7 @@
 * No Javascript
 * No data loaded from anything
 
-![hbnb](https://zupimages.net/up/23/46/bt8n.png)
 ![hbnb](https://zupimages.net/up/23/46/zxyo.png)
 
-
-
+- [👥 Author](#author)
 * **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
