@@ -2,7 +2,7 @@
 
 This project define HTML5 and CSS3
 
-## 🛠 Built With <a name="built-with">
+## 🛠 Built <a name="built-with">
 
 “Design” / “Sketch” / “Prototype” each element:
 
