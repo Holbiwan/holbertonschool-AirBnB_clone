@@ -2,9 +2,6 @@
 
 This project define HTML5 and CSS3
 
-![hbnb](https://zupimages.net/up/23/46/bt8n.png)
-
-
 ## 🛠 Built With <a name="built-with">
 
 “Design” / “Sketch” / “Prototype” each element:
